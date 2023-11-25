@@ -1,1 +1,50 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+}
+
+header {
+    background-color: rgb(209, 216, 9);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: rgb(35, 35, 35);
+}
+
+h2, h3, p {
+    color: rgb(111, 255, 0);
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.animal {
+    width: 800px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.animal img {
+    width: 600px;
+    height: auto;
+    border-bottom: 2px solid #f8f8f8;
+}
+
+footer {
+    background-color: rgb(190, 178, 4);
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
 
